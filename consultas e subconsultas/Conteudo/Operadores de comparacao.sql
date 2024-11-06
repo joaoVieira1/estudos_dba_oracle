@@ -1,0 +1,21 @@
+-- Operadores de comparação 
+-- = IGUAL
+-- < MENOR
+-- > MAIOR
+-- <= MENOR IGUAL
+-- >= MAIOR IGUAL
+-- <> DIFERENTE DE 
+-- BETWEEN V AND V2: ENTRE DOIS VALORES ESTIPULADOS
+-- IN: DADO ESTÁ EM ALGUMA LISTA DE ATRIBUTOS
+-- NOT IN: DADO NÃO ESTÁ EM ALGUMA LISTA DE ATRIBUTOS
+-- EXISTS: LISTA DE ATRIBUTOS NÃO ESTÁ VAZIA
+-- NOT EXISTS: LISTA DE ATRIBUTOS ESTÁ VAZIA
+-- IS: É NULO 
+-- IS NOT: NÃO É NULO
+-- LIKE: CADEIA DE CARACTERES -> % SUBSTITUI QUALQUER STRING
+-- NOT LIKE: NÃO ESTÁ NA CADEIA DE CARACTERES -> _ SUBSTITUI QUALQUER CARACTERE
+
+--A diferença entre in e exists é que in checa se um determinado dado está no conjunto
+--enquanto exists checa se o conjunto está ou não vázio
+
+
